@@ -48,7 +48,7 @@
 
 **5️⃣ Fast API로 Restful API 만들기**
 
-[Fast API로 Restful API 생 코드 바로가기](https://github.com/mingd00/ER-recommendation/blob/main/main.py)
+[Fast API로 Restful API 생성 코드 바로가기](https://github.com/mingd00/ER-recommendation/blob/main/main.py)
 
 - 상황, 위도, 경도 데이터를 보내면 응급 등급에 따라 가까운 병원을 반환
 
